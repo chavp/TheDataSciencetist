@@ -1,0 +1,2 @@
+- Anaconda
+- set jupyter browser -> http://developrx.com/rx-jupyter-notebook-select-browser/
